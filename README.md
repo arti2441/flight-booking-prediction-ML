@@ -1,4 +1,4 @@
-# ✈️ Customer Booking Prediction using Machine Learning
+# ✈️ Airline Customer Booking Prediction using Machine Learning
 
 <div align="center">
 
