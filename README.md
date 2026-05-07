@@ -267,7 +267,7 @@ with open("customer_booking_model.pkl", "wb") as f:
 # 📁 Project Structure
 
 ```bash
-Customer-Booking-Prediction/
+flight-booking-prediction-ML/
 │
 ├── data/
 │   └── customer_booking.csv
