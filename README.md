@@ -4,7 +4,7 @@
 
 ### Predicting Customer Booking Completion using Machine Learning & Advanced Classification Techniques
 
-<img src="images/banner.jpg" alt="banner" width="100%"/>
+<img src="images/banner.jpg" alt="banner" width="80%"/>
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge\&logo=python)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-MachineLearning-orange?style=for-the-badge\&logo=scikitlearn)
@@ -269,24 +269,22 @@ with open("customer_booking_model.pkl", "wb") as f:
 ```bash
 Customer-Booking-Prediction/
 │
-├── notebook/
-│   └── booking_complete_EDA_Model_training.ipynb
+├── data/
+│   └── customer_booking.csv
 │
 ├── images/
-│   ├── banner.png
-│   ├── workflow.png
-│   ├── booking_distribution.png
-│   ├── purchase_lead_vs_booking.png
-│   ├── correlation_heatmap.png
-│   ├── feature_importance.png
-│   ├── confusion_matrix.png
-│   └── roc_curve.png
-│
+│   ├── banner.jpg
+│   ├── images/End-to-End Machine Learning Workflow for Customer Booking Prediction. - visual selection.png
+│   ├── images/booking_complete_distribution.png
+│   ├── purchase_lead_analysis.png
+│   ├── images/corr_heatmap_ba.png
+│   └── images/features_imp_ba.png
+│   
 ├── model/
 │   └── customer_booking_model.pkl
 │
-├── data/
-│   └── customer_booking.csv
+├── notebook/
+│   └── Customer_booking_prediction.ipynb
 │
 ├── README.md
 └── requirements.txt
