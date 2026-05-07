@@ -4,7 +4,7 @@
 
 ### Predicting Customer Booking Completion using Machine Learning & Advanced Classification Techniques
 
-<img src="images/banner.png" alt="banner" width="100%"/>
+<img src="images/banner.jpg" alt="banner" width="100%"/>
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge\&logo=python)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-MachineLearning-orange?style=for-the-badge\&logo=scikitlearn)
